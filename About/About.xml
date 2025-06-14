@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Increase Base Bandwidth</name>
+  <author>alite</author>
+  <packageId>IncreaseBaseBandwidth.Mod</packageId>
+  <supportedVersions>
+    <li>1.4</li>
+    <li>1.5</li>
+    <li>1.6</li>
+  </supportedVersions>
+  <description>
+Increases the base amount of bandwidth a mechlink provides to 99 and increases the number of control groups to 9. For those who want a lot of mechs with none of the space related consequences.
+
+WARNING
+
+If you use Tweaks Galore, which I give 3 thumbs up, enabling Mechanitor tweaks will likely break this mod. You will still be able to continue, but mechlinks will no longer provide the bases my mod dictates. If you accidentally Enable Mechanitor Tweaks, you will need to disable them and restart Rimworld to regain the 99 bandwidth and 9 groups.
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=2695164414
+
+This mod is incompatable with anything that directly alters the mechlink''s bandwidth or group count.
+
+Just to clarify, 99 and 9 are completely arbitrary numbers that I picked for fun. It should be high enough that you never need to take extra steps to increase bandwidth.
+  </description>
+</ModMetaData>
